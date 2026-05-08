@@ -9,7 +9,7 @@
 // Pins
 
 // Display 5110
-#define DEFAULT_CONTRAST 50
+#define DEFAULT_CONTRAST 55
 #define PIN_NOKIA_DC 4   // Data/Command select (D/C)
 #define PIN_NOKIA_BL 9   // Backlight
 #define PIN_NOKIA_CE 8   // Chip Select // 8
@@ -20,7 +20,7 @@
 // Sensors
 #define DHTTYPE DHT11
 #define DHTPIN1 6
-#define DHTPIN2 12
+#define DHTPIN2 7
 
 // Fan ctrl
 #define FAN_PIN 10
